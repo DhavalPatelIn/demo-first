@@ -5,4 +5,8 @@ h2 { margin: 0; padding:0; font-size: 20px; }
 p { margin: 0; padding:0; font-size: 20px; background: #eee; border:1px solid #ccc; padding: 10px; line-height: 1; border-radius: 4px; font-weight: 700; }
 .flex { display: flex; flex-wrap: wrap; align-items: center; padding: 20px 0; border-bottom: 1px solid #eee; }
 .flex h2 { padding-right: 10px; }
+<<<<<<< HEAD
 h3 { font-size: 18px; }
+=======
+h3 { font-size: 16px; }
+>>>>>>> 53d97d2188ad378acc34f8108c9636f712d7a416
